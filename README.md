@@ -1,9 +1,9 @@
 # Crawl Websites
-Demo crawl websites sử dụng ActiveMQ
+Demo crawl websites sử dụng RabbitMQ
 # Getting Started
-Install jsoup in https://jsoup.org/ .
+Install jsoup: https://jsoup.org/ .
 
-Install activemq 
+Install rabbitmq: 
 
 Install project
 ```
